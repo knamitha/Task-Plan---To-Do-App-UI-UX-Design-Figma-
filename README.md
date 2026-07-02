@@ -1,6 +1,6 @@
 # Taskplan — To-Do App UI/UX Design
 
-A complete multi-screen mobile UI/UX design for a task management application, designed using **Figma** as part of my UI/UX Design Internship at **Edu Tantra**.
+A complete multi-screen mobile UI/UX design for a task management application, designed using **Figma** as part of my UI/UX Design Internship at **Edu Tantr**.
 
 ---
 
